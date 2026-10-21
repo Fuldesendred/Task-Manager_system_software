@@ -1,0 +1,34 @@
+[
+  {
+    "id": "d086aa3e-202d-4997-a412-c47df63df49e",
+    "title": "Тестовая",
+    "description": "Тестовое",
+    "status": "done",
+    "createdAt": "2026-10-21T16:48:52.599Z",
+    "updatedAt": "2026-10-21T16:50:32.468Z"
+  },
+  {
+    "id": "1f3fcf90-6df0-44e3-91b3-aecbf73a7e0f",
+    "title": "Сходить в магазин",
+    "description": "Купить молоко и хлеб",
+    "status": "todo",
+    "createdAt": "2026-10-21T16:49:22.854Z",
+    "updatedAt": "2026-10-21T16:49:22.854Z"
+  },
+  {
+    "id": "03e09a45-62ff-4fe2-a564-24390744f493",
+    "title": "Прослушать подкаст",
+    "description": "----",
+    "status": "in_progress",
+    "createdAt": "2026-10-21T16:49:47.534Z",
+    "updatedAt": "2026-10-21T16:50:53.371Z"
+  },
+  {
+    "id": "124670ce-7b9f-44b2-9f26-0c47ddbaf1cc",
+    "title": "Сделать отчёт",
+    "description": "До 00:00",
+    "status": "todo",
+    "createdAt": "2026-10-21T17:44:57.789Z",
+    "updatedAt": "2026-10-21T17:44:57.789Z"
+  }
+]
