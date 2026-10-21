@@ -27,16 +27,16 @@
     "id": "124670ce-7b9f-44b2-9f26-0c47ddbaf1cc",
     "title": "Сделать отчёт",
     "description": "До 00:00",
-    "status": "todo",
+    "status": "done",
     "createdAt": "2026-10-21T17:44:57.789Z",
-    "updatedAt": "2026-10-21T17:44:57.789Z"
+    "updatedAt": "2026-10-21T19:39:46.854Z"
   },
   {
     "id": "c4027a95-12d3-47f1-948b-77001f9c75da",
     "title": "Загрузить исходный код в репозиторий на GitHub",
     "description": "Сделать в течение часа",
-    "status": "todo",
+    "status": "done",
     "createdAt": "2026-10-21T17:47:58.202Z",
-    "updatedAt": "2026-10-21T17:47:58.202Z"
+    "updatedAt": "2026-10-21T18:34:35.383Z"
   }
 ]
